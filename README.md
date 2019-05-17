@@ -8,4 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Website Contents
 
-1. index.html
+Here are the files in the website.
+
+1. index.html 
